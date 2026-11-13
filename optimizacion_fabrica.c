@@ -31,7 +31,7 @@ int main(void)
 
     do
     {
-        printf("\n======= OPTIMIZACION DE PRODUCCION =======\n");
+        printf("\n OPTIMIZACION DE PRODUCCION \n");
         printf("1. Ingresar producto\n");
         printf("2. Mostrar productos\n");
         printf("3. Editar producto\n");
